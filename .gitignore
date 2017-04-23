@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Bundle file created by React
+public/bundle.js
