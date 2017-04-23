@@ -4,7 +4,7 @@
   "description": "A siple todo app using react,mobx & node",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node --ext js,ejs  server.js --ignore public/",
+    "start": "nodemon --exec babel-node --ext js,ejs  index.js --ignore public/",
     "dev": "webpack -w"
   },
   "author": "",
